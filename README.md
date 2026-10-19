@@ -1,78 +1,112 @@
-## Hi there 👋
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00d4ff&height=200&section=header&text=Mukhamad%20Khoirul%20Abdulloh&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Electronics%20Engineer%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20IoT&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
+</p>
 
-# Hi there, I'm Khoirul 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=520&lines=Designing+PCBs+%26+electronic+circuits+%E2%9A%A1;Embedded+C+%2F+C%2B%2B+for+microcontrollers;Arduino+%E2%80%A2+ESP32+%E2%80%A2+STM32+%E2%80%A2+Raspberry+Pi;Sharing+knowledge+at+SkillsHUB+Electronics" alt="Typing SVG" />
+  </a>
+</p>
 
-<div align="center">
-
-### 💻 Embedded Systems & Hardware Engineer | Vocational Trainer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username_anda)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://portfolio_anda.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email_anda@gmail.com)
-
-</div>
-
----
-
-### 🚀 Tentang Saya
-
-* 🔭 Saat ini fokus pada **Embedded Systems Firmware & Hardware Prototyping** (STM32, ESP32, PIC, Arduino)
-* 📐 Berpengalaman dalam **PCB Layout & Schematic Design** (Fusion 360 Electronics, EAGLE) serta simulasi SPICE (LTspice, Proteus)
-* ⚙️ Memiliki ketertarikan pada **Robotics, Analog Signal Conditioning & Control Systems**
-* 💬 Tanyakan saya tentang **Microcontrollers, C/C++, IoT Solutions, dan Circuit Design**
+<p align="center">
+  <a href="https://github.com/SkillsHUB-Electronics"><img src="https://komarev.com/ghpvc/?username=SkillsHUB-Electronics&label=Profile%20views&color=00d4ff&style=flat-square" alt="profile views" /></a>
+  <a href="https://github.com/SkillsHUB-Electronics?tab=followers"><img src="https://img.shields.io/github/followers/SkillsHUB-Electronics?label=Followers&style=flat-square&color=203a43&logo=github" alt="followers" /></a>
+  <a href="https://github.com/SkillsHUB-Electronics?tab=repositories"><img src="https://img.shields.io/badge/Open%20to-Collaborate-00d4ff?style=flat-square" alt="collab" /></a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## ⚡ About Me
 
-**Embedded Hardware & Microcontrollers:**  
-![STM32](https://img.shields.io/badge/STM32-03234C?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+```c
+// about_me.c
+struct Engineer khoirul = {
+    .name      = "Mukhamad Khoirul Abdulloh",
+    .role      = "Electronics & Embedded Systems Engineer",
+    .location  = "UAE 🇦🇪",            // replace with your city
+    .focus     = { "PCB Design", "IoT", "Firmware", "Automation" },
+    .learning  = "RTOS & Edge AI",            // replace with what you're learning
+    .motto     = "Build it, test it, share it.",
+};
+```
 
-**EDA & Simulation Tools:**  
-![Autodesk Fusion](https://img.shields.io/badge/Fusion_360-0696D7?style=flat-square&logo=autodesk&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-003366?style=flat-square&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus_Design-00599C?style=flat-square&logoColor=white)
-
-**Software & IDEs:**  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=username_github_anda&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username_github_anda&layout=compact&theme=tokyonight"/>
-
-</div>
+- 🔌 Currently working on **gapura**
+- 🛠️ I love designing circuits, building PCBs, and writing firmware
+- 🎓 Sharing electronics tutorials at **SkillsHUB Electronics**
+- 📫 Reach me at: **mukhamadkhoirul@email.com**
 
 ---
 
-<div align="center">
+## 🧰 Tech Stack & Tools
 
-*“Hardware is hard, but firmware makes it magic.”*
+**Languages & Platforms**
 
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,matlab&perline=10" alt="languages" />
+</p>
 
-<!--
-**SkillsHUB-Electronics/SkillsHUB-Electronics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tools & Workflow**
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,bash&perline=10" alt="tools" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hardware & EDA**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+  <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge&logoColor=white" alt="EasyEDA" />
+  <img src="https://img.shields.io/badge/Proteus-0A4B8C?style=for-the-badge&logoColor=white" alt="Proteus" />
+  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SkillsHUB-Electronics&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&count_private=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkillsHUB-Electronics&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SkillsHUB-Electronics&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=203a43" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SkillsHUB-Electronics&hide_border=true&bg_color=0d1117&color=c9d1d9&line=00d4ff&point=ffffff&area=true&area_color=00d4ff" alt="activity graph" width="100%" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Replace REPO-NAME with your repository names -->
+<p align="center">
+  <a href="https://github.com/SkillsHUB-Electronics/gapura">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkillsHUB-Electronics&repo=REPO-NAME-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff" alt="repo 1" />
+  </a>
+  <a href="https://github.com/SkillsHUB-Electronics/EVE-companion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkillsHUB-Electronics&repo=REPO-NAME-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff" alt="repo 2" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.youtube.com/@USERNAME"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.linkedin.com/in/khoirul-abdulloh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/khoirul.abdulloh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:mukhamadkhoirul@gmail.com"><img src="https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+</p>
