@@ -78,8 +78,9 @@ struct Engineer khoirul = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SkillsHUB-Electronics&hide_border=true&bg_color=0d1117&color=c9d1d9&line=00d4ff&point=ffffff&area=true&area_color=00d4ff" alt="activity graph" width="100%" />
+  <img src="https://ghchart.rshah.org/00d4ff/SkillsHUB-Electronics" alt="contribution chart" width="100%" />
 </p>
+
 
 ---
 
@@ -88,10 +89,10 @@ struct Engineer khoirul = {
 <!-- Replace REPO-NAME with your repository names -->
 <p align="center">
   <a href="https://github.com/SkillsHUB-Electronics/gapura">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkillsHUB-Electronics&repo=REPO-NAME-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff" alt="repo 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkillsHUB-Electronics&repo=gapura&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff" alt="gapura" />
   </a>
   <a href="https://github.com/SkillsHUB-Electronics/EVE-companion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkillsHUB-Electronics&repo=REPO-NAME-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff" alt="repo 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkillsHUB-Electronics&repo=EVE-companion&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff" alt="EVE-companion" />
   </a>
 </p>
 
